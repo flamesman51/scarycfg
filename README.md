@@ -15,12 +15,15 @@ This config is made firstmost for myself, so you probably will want to edit the 
 - remove damage particles
 - add a record;stop bind to find cloaked spies (spicy, bannable)
 - quiter scout primary, secondary sounds
+- add description to the readme
+- add screenshots to the readme
 
 ## Installation
 To install, first make sure that you have a completely clean tf2 copy that has no config already installed, then just download the repo, open the .zip with 7zip or something and place the "tf" file into your tf2 folder(usually on windows it's "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2"). Don't forget the no_hats_bgum.vpk file! Download it and place into tf/custom folder(in your tf2 installation ofc).
 
 ## Legality
 I quickly went through the etf2l and rgl rules and I'm not really sure about the flat characters mod(It's preloaded and the only mod that's preloaded). Otherwise this is fine I think(please correct me if I'm wrong here).
+
 100% not vac bannable.
 
 ## Issues
