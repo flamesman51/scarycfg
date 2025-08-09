@@ -5,6 +5,8 @@ This config is made firstmost for myself, so you probably will want to edit the 
 
 # to-dos
 - this is kind of permanent. Update mastercomfig and m0rehud to latest.
+- change heavy's primary crosshair
+- no tracers on heavy primary
 - add the advanced settings cfg
 - try enabling player shadows
 - selectievly make viewmodels invisible with horsies viewmodel editor or something else(I only play scout rn so I just r_drawviewmodel 0 lol)
