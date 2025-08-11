@@ -4,27 +4,23 @@
 This config is made firstmost for myself, so you probably will want to edit the autoexec.cfg since I'm using the colemak-DH US keyboard layout(windows) and the sens is set in the autoexec. You will also need an external fps limiter.
 
 # to-dos
-- this is kind of permanent. Update mastercomfig and m0rehud to latest.
-- change heavy's primary crosshair
-- no tracers on heavy primary
-- add the advanced settings cfg
-- try enabling player shadows
+- this is kind of permanent. Update mastercomfig and m0rehud to latest. (done@11.08.2025)
+- change heavy's primary crosshair(done)
+- add the advanced settings cfg(tiresome)
+- try enabling player shadows(idk about this one)
 - selectievly make viewmodels invisible with horsies viewmodel editor or something else(I only play scout rn so I just r_drawviewmodel 0 lol)
 - also with horsies viewmodel editor, remove the first person flames on pyro
-- edit health colors from backdrop to solid from the hud customization menu
-- bind say_team
 - a better installation process with unbind all..?
-- remove damage particles
-- add a record;stop bind to find cloaked spies (spicy, bannable)
-- quiter scout primary, secondary sounds
+- quiter scout primary and secondary sounds
 - add description to the readme
 - add screenshots to the readme
+- add a keybind map to readme
 
 ## Installation
 To install, first make sure that you have a completely clean tf2 copy that has no config already installed, then just download the repo, open the .zip with 7zip or something and place the "tf" file into your tf2 folder(usually on windows it's "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2"). Don't forget the no_hats_bgum.vpk file! Download it and place into tf/custom folder(in your tf2 installation ofc).
 
 ## Legality
-I quickly went through the etf2l and rgl rules and I'm not really sure about the flat characters mod(It's preloaded and the only mod that's preloaded). Otherwise this is fine I think(please correct me if I'm wrong here).
+I quickly went through the etf2l and rgl rules and I'm not really sure about the flat characters mod(It's preloaded). Otherwise this is fine I think(please correct me if I'm wrong here).
 
 100% not vac bannable.
 
