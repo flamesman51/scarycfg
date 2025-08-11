@@ -4,9 +4,9 @@
 This config is made firstmost for myself, so you probably will want to edit the autoexec.cfg since I'm using the colemak-DH US keyboard layout(windows) and the sens is set in the autoexec. You will also need an external fps limiter.
 
 Set this as your tf2 launch options(change this if you know what you are doing):
-'''
+```
 +exec w/config -novid -nojoy -nosteamcontroller -nohltv -particles 1
-'''
+```
 # to-dos
 - this is kind of permanent. Update mastercomfig and m0rehud to latest. (done@11.08.2025)
 - add the advanced settings cfg(tiresome)
