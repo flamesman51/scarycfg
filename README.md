@@ -3,9 +3,11 @@
 
 This config is made firstmost for myself, so you probably will want to edit the autoexec.cfg since I'm using the colemak-DH US keyboard layout(windows) and the sens is set in the autoexec. You will also need an external fps limiter.
 
+set this as your tf2 launch options(change only if you know what you are doing):
++exec w/config -novid -nojoy -nosteamcontroller -nohltv -particles 1
+
 # to-dos
 - this is kind of permanent. Update mastercomfig and m0rehud to latest. (done@11.08.2025)
-- change heavy's primary crosshair(done)
 - add the advanced settings cfg(tiresome)
 - try enabling player shadows(idk about this one)
 - selectievly make viewmodels invisible with horsies viewmodel editor or something else(I only play scout rn so I just r_drawviewmodel 0 lol)
