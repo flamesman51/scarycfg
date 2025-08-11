@@ -1,5 +1,5 @@
 # scarycfg
-!!! Because of github's 100mb file limit, this repo doesn't include the no_hats_bgum.vpk file. You can fetch it from source here: https://pevhs.ch/tf2/vpk/nhbgum/no_hats_bgum.vpk !!!
+!!! Because of github's 100mb file limit, this repo doesn't include the no_hats_bgum.vpk file. You can fetch it here: https://pevhs.ch/tf2/vpk/nhbgum/no_hats_bgum.vpk !!!
 
 This config is made firstmost for myself, so you probably will want to edit the autoexec.cfg since I'm using the colemak-DH US keyboard layout(windows) and the sens is set in the autoexec. You will also need an external fps limiter.
 
@@ -9,6 +9,7 @@ Set this as your tf2 launch options(change this if you know what you are doing):
 ```
 # to-dos
 - this is kind of permanent. Update mastercomfig and m0rehud to latest. (done@11.08.2025)
+- disabling first person tracers for scout
 - add the advanced settings cfg(tiresome)
 - try enabling player shadows(idk about this one)
 - selectievly make viewmodels invisible with horsies viewmodel editor or something else(I only play scout rn so I just r_drawviewmodel 0 lol)
@@ -38,8 +39,9 @@ I quickly went through the etf2l and rgl rules and I'm not really sure about the
 - mastercomfig - main config (https://comfig.app)
 - m0rehud - the hud (https://github.com/Hypnootize/m0rehud)
 - nhbgum - bgum's no hat mods (https://pevhs.ch/tf2/vpk/nhbgum/)
-- casual-pre-loader - the preloader for flat mercs (https://github.com/cueki/casual-pre-loader)
+- casual-pre-loader - the preloader for flat mercs and damage particles removal (https://github.com/cueki/casual-pre-loader)
 - flat characters - looks cool (https://gamebanana.com/mods/400535)
 - flat textures - please make an updated version!!! (https://gamebanana.com/mods/295065)
 - sound removal mods from optivex's config - (now removed I guess? probably not an original source. anyways)
 - better tab script - from RED8 (https://www.dropbox.com/scl/fi/d20rsqfar7dp6groerc29/RED8.zip?rlkey=ywkz25phqb1u5hmsbhrqed4nm&e=2&dl=0)
+- damage particle removal - thanks (https://www.teamfortress.tv/62242/is-it-possible-to-disable-damage-particles)
