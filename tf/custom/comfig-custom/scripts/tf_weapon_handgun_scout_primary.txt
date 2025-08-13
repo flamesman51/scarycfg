@@ -16,7 +16,7 @@
 	"ProjectileType" "projectile_bullet"
 	"BrassModel" ""
 	"UseRapidFireCrits" "1"
-	"TracerEffect" "bullet_pistol_tracer01"
+	"TracerEffect" ""
 	"primary_ammo" "TF_AMMO_PRIMARY"
 	"secondary_ammo" "None"
 	"clip_size" "4"

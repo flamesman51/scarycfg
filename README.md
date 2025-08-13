@@ -9,9 +9,7 @@ Set this as your tf2 launch options(change this if you know what you are doing):
 ```
 # to-dos
 - this is kind of permanent. Update mastercomfig and m0rehud to latest. (done@11.08.2025)
-- disabling first person tracers for scout
 - add the advanced settings cfg(tiresome)
-- try enabling player shadows(idk about this one)
 - selectievly make viewmodels invisible with horsies viewmodel editor or something else(I only play scout rn so I just r_drawviewmodel 0 lol)
 - also with horsies viewmodel editor, remove the first person flames on pyro
 - a better installation process with unbind all..?
