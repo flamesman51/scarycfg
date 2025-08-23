@@ -24,7 +24,7 @@
 	"HasTeamSkins" "1"
 	"DoInstantEjectBrass" "0"
 	"BrassModel" ""
-	"TracerEffect" ""
+	"TracerEffect" "bullet_scattergun_tracer01"
 	"bucket" "0"
 	"bucket_position" "0"
 	"anim_prefix" "shotgun"
@@ -65,11 +65,11 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/cpma_3"
+			"file" "vgui/replay/thumbnails/xhairshadowdefault"
 			"x" "0"
 			"y" "0"
-			"width" "32"
-			"height" "32"
+			"width" "64"
+			"height" "64"
 		}
 		"autoaim"
 		{

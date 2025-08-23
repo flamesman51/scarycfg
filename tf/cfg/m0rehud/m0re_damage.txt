@@ -1,1 +1,1 @@
-#base ../../custom/m0rehud/resource/ui/customizations/damage/huddamageaccount_medium_minusless.res 
+#base ../../custom/m0rehud/resource/ui/customizations/damage/huddamageaccount_small_minusless.res 

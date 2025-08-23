@@ -16,7 +16,7 @@
 	"ProjectileType" "projectile_bullet"
 	"BrassModel" ""
 	"UseRapidFireCrits" "1"
-	"TracerEffect" ""
+	"TracerEffect" "bullet_pistol_tracer01"
 	"primary_ammo" "TF_AMMO_PRIMARY"
 	"secondary_ammo" "None"
 	"clip_size" "4"
@@ -60,11 +60,11 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/cpma_3"
+			"file" "vgui/replay/thumbnails/xhairshadowdefault"
 			"x" "0"
 			"y" "0"
-			"width" "32"
-			"height" "32"
+			"width" "64"
+			"height" "64"
 		}
 		"autoaim"
 		{
